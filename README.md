@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🖥 Working on building large-scale services with well-designed architectures
-- 🌱 Learning full stack development and cloud services
-- 🧐 I enjoy incorporating various developer tools such as neovim, tmux, and terminal plugins into my workflow
+- 🖥 CS student at the **University of Virginia**, currently working as a software engineer intern at **Waymo**
+- 🧐 Interested in distributed systems, full-stack development, and developer tools
+- 🌱 Working on multiple projects at **EPPEY**
 - 📫 How to reach me: [Email](mailto:sehoanchoi0124@gmail.com) [LinkedIn](https://www.linkedin.com/in/sehoanchoi/)
