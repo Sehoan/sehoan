@@ -1,5 +1,3 @@
-### Hi there 👋
-
-- 👨🏻‍💻 Software Engineer @ **Waymo**
-- 🧐 Interested in software engineering and developer tools
-- 📫 How to reach me: [Email](mailto:sehoanchoi0124@gmail.com) [LinkedIn](https://www.linkedin.com/in/sehoanc/)
+- 👨🏻‍💻 software engineer at [waymo](https://waymo.com) working on simulation tools
+- 🌱 building and learning
+- 📫 reach me at [email](mailto:sehoanchoi0124@gmail.com) or [linkedIn](https://www.linkedin.com/in/sehoanc/)
