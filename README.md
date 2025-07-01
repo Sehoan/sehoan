@@ -1,2 +1,2 @@
-- 👨🏻‍💻 software engineer at [waymo](https://waymo.com) building distributed systems to continuously improve the way that waymo builds the driver
+- 👨🏻‍💻 software engineer at [waymo](https://waymo.com) solving problems to continuously improve the way that waymo builds its driver at scale
 - 📫 reach me at [email](mailto:sehoanc@gmail.com) or [linkedIn](https://www.linkedin.com/in/sehoanc/)
